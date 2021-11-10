@@ -6,7 +6,7 @@ Red l Mapache
 
     <tr width="100%" width="100%">
 
-      <th></th>
+      <th>c0</th>
 
       <th colspan="2" >c1</th>
 
