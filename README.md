@@ -1,6 +1,6 @@
-# RedMapache
+# <p> align="center"RedMapache </p>
 Red l Mapache
-<table class="default">
+<table border="1">
 
   <thead>
 
@@ -8,23 +8,23 @@ Red l Mapache
 
       <th></th>
 
-      <th colspan="2">Anthony</th>
+      <th colspan="2">c1</th>
 
-      <th colspan="2">Lione</th>
+      <th colspan="2">c2</th>
 
     </tr>
 
     <tr>
 
-      <th scope="col">Fecha</th>
+      <th scope="col">c3</th>
 
-      <th>Entrada</th>
+      <th>c4</th>
 
-      <th>Salida</th>
+      <th>c5</th>
 
-      <th>Entrada</th>
+      <th>c6</th>
 
-      <th>Salida</th>
+      <th>c7</th>
 
     </tr>
 
@@ -34,71 +34,71 @@ Red l Mapache
 
     <tr>
 
-      <th>15/07</th>
+      <th>c8</th>
 
-      <td>$200,00</td>
+      <td>c9</td>
 
-      <td>$50,00</td>
+      <td>c10</td>
 
-      <td>$0</td>
+      <td>c11</td>
 
-      <td>$0</td>
-
-    </tr>
-
-    <tr>
-
-      <th>28/07</th>
-
-      <td>$0,00</td>
-
-      <td>$100,00</td>
-
-      <td>$100,00</td>
-
-      <td>$0,00</td>
+      <td>c12</td>
 
     </tr>
 
     <tr>
 
-      <th>09/08</th>
+      <th>c13</th>
 
-      <td>$0,00</td>
+      <td>c14</td>
 
-      <td>$50,00</td>
+      <td>c15</td>
 
-      <td>$0,00</td>
+      <td>c16</td>
 
-      <td>$80,00</td>
-
-    </tr>
-
-    <tr>
-
-      <th>22/08</th>
-
-      <td>$40,00</td>
-
-      <td>$0,00</td>
-
-      <td>$0,00</td>
-
-      <td>$110,00</td>
+      <td>c17</td>
 
     </tr>
 
     <tr>
 
-      <th>25/08</th>
+      <th>c18</th>
 
-      <td>$0,00</td>
+      <td>c19</td>
 
-      <td>$20,00</td>
+      <td>c20</td>
 
-      <td>$0,00</td>
+      <td>c21</td>
 
-      <td>$0,00</td>
+      <td>c22</td>
+
+    </tr>
+
+    <tr>
+
+      <th>c23</th>
+
+      <td>c24</td>
+
+      <td>c25</td>
+
+      <td>c26</td>
+
+      <td>c27</td>
+
+    </tr>
+
+    <tr>
+
+      <th>c28</th>
+
+      <td>c29</td>
+
+      <td>c30</td>
+
+      <td>c31</td>
+
+      <td>c32</td>
 
     </tr>
 
@@ -108,11 +108,11 @@ Red l Mapache
 
     <tr>
 
-      <th>Balance</th>
+      <th>c33</th>
 
-      <td colspan="2">$20,00</td>
+      <td colspan="2">c34</td>
 
-      <td colspan="2">$10,00</td>
+      <td colspan="2">c35</td>
 
     </tr>
 
