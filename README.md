@@ -4,7 +4,7 @@ Red l Mapache
 
   <thead>
 
-    <tr width="100%">
+    <tr width="100%" width="100%">
 
       <th></th>
 
