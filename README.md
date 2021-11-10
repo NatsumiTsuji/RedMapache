@@ -1,5 +1,14 @@
 # RedMapache
 Red l Mapache
+<div id="cronometro">
+  <div id="reloj">
+	  0 00 00 00
+	</div>
+  <form name="cron" action="#">
+    <input type="button" value="Empezar" name="boton1"   />
+    <input type="button" value="Parar" name="boton2"  /><br/>
+  </form>
+</div>
 <table border="1">
 
   <thead>
