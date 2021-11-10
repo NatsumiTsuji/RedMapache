@@ -4,17 +4,17 @@ Red l Mapache
 
   <thead>
 
-    <tr>
+    <tr width="100%">
 
       <th></th>
 
-      <th colspan="2" width="100%">c1</th>
+      <th colspan="2" >c1</th>
 
       <th colspan="2">c2</th>
 
     </tr>
 
-    <tr>
+    <tr width="100%">
 
       <th scope="col">c3</th>
 
@@ -32,7 +32,7 @@ Red l Mapache
 
   <tbody>
 
-    <tr>
+    <tr width="100%">
 
       <th>c8</th>
 
@@ -46,7 +46,7 @@ Red l Mapache
 
     </tr>
 
-    <tr>
+    <tr width="100%">
 
       <th>c13</th>
 
@@ -60,7 +60,7 @@ Red l Mapache
 
     </tr>
 
-    <tr>
+    <tr width="100%">
 
       <th>c18</th>
 
@@ -74,7 +74,7 @@ Red l Mapache
 
     </tr>
 
-    <tr>
+    <tr width="100%">
 
       <th>c23</th>
 
@@ -88,7 +88,7 @@ Red l Mapache
 
     </tr>
 
-    <tr>
+    <tr width="100%">
 
       <th>c28</th>
 
@@ -106,7 +106,7 @@ Red l Mapache
 
   <tfoot>
 
-    <tr>
+    <tr width="100%">
 
       <th>c33</th>
 
