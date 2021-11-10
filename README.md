@@ -1,6 +1,6 @@
-# 
+# RedMapache
 Red l Mapache
-<p align="center" RedMapache </p>
+
 <table border="1">
 
   <thead>
