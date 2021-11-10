@@ -1,6 +1,5 @@
 # RedMapache
 Red l Mapache
-
 <table border="1">
 
   <thead>
@@ -9,7 +8,7 @@ Red l Mapache
 
       <th></th>
 
-      <th colspan="2">c1</th>
+      <th colspan="2" width="100%">c1</th>
 
       <th colspan="2">c2</th>
 
