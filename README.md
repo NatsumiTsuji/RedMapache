@@ -6,11 +6,11 @@ Red l Mapache
 
     <tr width="100%" height="100%">
 
-      <th width="100%">c0</th>
+      <th width="30%">c0</th>
 
-      <th colspan="2" width="100%">c1</th>
+      <th colspan="2" width="30%">c1</th>
 
-      <th colspan="2" width="100%">c2</th>
+      <th colspan="2" width="30%">c2</th>
 
     </tr>
 
