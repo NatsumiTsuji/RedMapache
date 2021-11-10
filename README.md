@@ -7,15 +7,15 @@ Red l Mapache
 
     <tr width="100%" height="100%">
 
-      <th width="30%"><div id="cronometro">
-  <div id="reloj">
-	  0 00 00 00
-	</div>
+      <th width="30%"> <div id="cronometro">
+  <div id="reloj">0 00 00 00</div>
   <form name="cron" action="#">
-    <input type="button" value="Empezar" name="boton1"   />
-    <input type="button" value="Parar" name="boton2"  /><br/>
+    <input type="button" value="Empezar" name="boton1">
+    <input type="button" value="Parar" name="boton2" disabled=""><br>
   </form>
-</div></th>
+
+</div>
+	    </th>
 
       <th colspan="2" width="30%">c1</th>
 
