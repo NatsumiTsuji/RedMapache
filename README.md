@@ -1,6 +1,13 @@
 # RedMapache
 Red l Mapache
-<div id="cronometro">
+
+<table border="1">
+
+  <thead>
+
+    <tr width="100%" height="100%">
+
+      <th width="30%"><div id="cronometro">
   <div id="reloj">
 	  0 00 00 00
 	</div>
@@ -8,14 +15,7 @@ Red l Mapache
     <input type="button" value="Empezar" name="boton1"   />
     <input type="button" value="Parar" name="boton2"  /><br/>
   </form>
-</div>
-<table border="1">
-
-  <thead>
-
-    <tr width="100%" height="100%">
-
-      <th width="30%">c0</th>
+</div></th>
 
       <th colspan="2" width="30%">c1</th>
 
